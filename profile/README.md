@@ -14,6 +14,8 @@
         <li>DNS Secure</li>
         <li>Windows, MacOS & Linux support</li>
         <li>200+ additional settings</li>
+        <li>i18n support</li>
+        <li>Night & Light theme</li>
         <li>Profiles manage & cabinet</li>
         <li>Subscriptions (additional features)</li>
     </ul>
