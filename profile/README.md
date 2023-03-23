@@ -1,5 +1,5 @@
 <h2>Anti Detect Browser</h2>
-<img style="max-width: 500px" src="https://user-images.githubusercontent.com/51407990/227339290-23054bdc-5cc6-42ba-9814-1d5303a23ed1.png" />
+<img src="https://user-images.githubusercontent.com/51407990/227343164-92c83093-2a1e-43c7-8c46-50831de7cee0.png" />
 
 > An antidetect browser is a web-browsing application that uses technologies such as data spoofing to protect the privacy of internet users.
 
